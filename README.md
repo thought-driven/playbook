@@ -5,6 +5,6 @@
 
 2. Copy the HTML to this directory.
 
-3. Run `ruby process.rb`
+3. Run `ruby process.rb`, to add `script.js` and `styles.css` to every file (for header and footer customization)
 
 4. Commit to master and it will be deployed via GH Pages

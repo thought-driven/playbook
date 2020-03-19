@@ -8,4 +8,5 @@
     '<a href="/"><img src="/assets/logo.png"><h1>Lunchtime Labs</h1></a>';
 
   parent.appendChild(nav);
+  parent.removeChild(element);
 })();

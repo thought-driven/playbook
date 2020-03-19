@@ -16,10 +16,10 @@ nav a {
   height: 48px;
 }
 
-img {
+nav img {
   width: auto;
   height: 100%;
-  margin: 0 20px;
+  margin: 0 20px 0 0;
 }
 
 nav h1 {

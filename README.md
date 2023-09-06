@@ -1,4 +1,4 @@
-# Lunchtime Labs Playbook
+# Thought Driven Development Playbook
 
 1. Export HTML from
    https://www.notion.so/lunchtimelabs/How-We-Work-eb84744893f541e5b232e73e5e707307
